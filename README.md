@@ -3,4 +3,4 @@ Curso Angular JS do Alura
 
 para executar digite
 
-npm start
+npm install e depois npm start
